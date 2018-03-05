@@ -1,0 +1,28 @@
+package secondVariable;
+
+public class J6_SimpleVariable {
+
+	private static final char MF = 0;
+
+	public static void main(String[] args) {
+		
+		// deklaracje zmiennych
+		int age = 0;
+		char initials = 0;
+		char name = 0;
+		
+		// przypisanie wartoœci zmiennych
+		age = 49;
+		initials = MF;
+		char Micha³;
+		name = Micha³;
+		
+		
+		//cia³o metody
+		System.out.println("Czeœæ " + name + ". S³ysza³em, ¿e masz " + age + " lat i uczysz siê programowania. Czy to prawda?");
+		System.out.println(true);
+		System.out.println("Czt Twoje inicja³y to " + initials +"?");
+		System.out.println("Tak, " + true);
+	}
+
+}

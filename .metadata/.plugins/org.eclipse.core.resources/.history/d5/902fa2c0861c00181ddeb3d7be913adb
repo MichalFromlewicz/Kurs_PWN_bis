@@ -1,0 +1,13 @@
+package primPrint;
+
+public class TestKonwersji {
+
+	public static void main(String[] args) {
+		Character l1 = 'k';
+		Character l2 ='o';
+		Character l3 = 't';
+		System.out.println("B³êdne \" sumowanie \" znaków");
+
+	}
+
+}

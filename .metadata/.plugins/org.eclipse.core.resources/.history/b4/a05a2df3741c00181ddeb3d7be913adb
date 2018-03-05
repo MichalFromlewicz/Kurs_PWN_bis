@@ -1,0 +1,15 @@
+package prim;
+
+public class R_J1 {
+
+	public static void main(String[] args) {
+		String name_1 ="John";
+		String name_2 ="Agness";
+		String name_3 ="Beatrix";
+		String separator =" ";
+		
+		System.out.println(name_1+separator+name_2+separator+name_3);
+
+	}
+
+}

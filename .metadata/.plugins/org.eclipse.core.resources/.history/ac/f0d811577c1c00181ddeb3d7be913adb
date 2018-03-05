@@ -1,0 +1,13 @@
+package secondVariable;
+
+public class J6_SimpleVariable {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Czeœæ Micha³, s³ysza³em ¿e masz " + 49 + " lat i uczysz siê programowania. Czy to prawda?");
+		System.out.println(true);
+		System.out.println("Czt Twoje inicja³y to " + M + F +"?");
+		System.out.println("Tak, " + true);
+	}
+
+}

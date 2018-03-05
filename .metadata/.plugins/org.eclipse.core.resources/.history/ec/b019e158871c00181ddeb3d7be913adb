@@ -1,0 +1,20 @@
+package primPrint;
+
+public class TestKonwersji {
+
+	public static void main(String[] args) {
+		Character l1 = 'k';
+		Character l2 ='o';
+		Character l3 = 't';
+		System.out.println("B³êdne \" sumowanie \" znaków");
+		System.out.println(l1+l2+l3);
+		System.out.println("Tekst jawny");
+		System.out.println("" + l1+l2+l3);
+		
+		l1++; l2++; l3++;
+		System.out.println("Tekst zaszyfrowany");
+		System.out.println(""+l1+l2+l3);
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;pl.pwn.reaktor.exception&apos; to &apos;pl.pwn.reaktor.exception.java53&apos;&#x0D;&#x0A;- Original project: &apos;Java53_54__89&apos;&#x0D;&#x0A;- Original element: &apos;Java53_54__89/src/pl.pwn.reaktor.exception&apos;&#x0D;&#x0A;- Renamed element: &apos;Java53_54__89/src/pl.pwn.reaktor.exception.java53&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;pl.pwn.reaktor.exception&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;pl.pwn.reaktor.exception" name="pl.pwn.reaktor.exception.java53" qualified="false" references="true" stamp="1516439464365" textual="false" version="1.0"/>
+</session>

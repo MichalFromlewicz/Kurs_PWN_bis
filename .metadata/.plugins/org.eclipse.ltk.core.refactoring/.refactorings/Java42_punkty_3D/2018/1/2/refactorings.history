@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Punkt2D&apos; to &apos;model&apos;&#x0D;&#x0A;- Original project: &apos;Java42_punkty_3D&apos;&#x0D;&#x0A;- Original element: &apos;Java42_punkty_3D/src/Punkt2D&apos;&#x0D;&#x0A;- Renamed element: &apos;Java42_punkty_3D/src/model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Punkt2D&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Punkt2D" name="model" qualified="false" references="true" stamp="1515918567828" textual="false" version="1.0"/>
+</session>

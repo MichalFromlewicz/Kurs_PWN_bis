@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;card&apos; in &apos;kasaFiskalna.Kasa&apos; to &apos;cart&apos;&#x0D;&#x0A;- Original project: &apos;Java32_lub_53&apos;&#x0D;&#x0A;- Original element: &apos;kasaFiskalna.Kasa.card&apos;&#x0D;&#x0A;- Renamed element: &apos;kasaFiskalna.Kasa.cart&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;card&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;kasaFiskalna{Kasa.java[Kasa^card" name="cart" references="true" setter="false" stamp="1515837787969" textual="false" version="1.0"/>
+</session>

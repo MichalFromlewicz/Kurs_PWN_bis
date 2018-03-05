@@ -1,0 +1,14 @@
+package primPrint;
+
+public class R_J3 {
+
+	public static void main(String[] args) {
+		System.out.println("###Program1###");
+		J1_Names.main(args);
+		System.out.println("###Program2###");
+		R_J2.main(args);
+		System.out.println("##############");
+
+	}
+
+}

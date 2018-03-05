@@ -1,0 +1,13 @@
+package primPrint;
+
+public class R_J2 {
+
+	public static void main(String[] args) {
+		System.out.println("SQL");
+		System.out.println("Python");
+		System.out.println("Front_end");
+		System.out.println("Java");
+
+	}
+
+}

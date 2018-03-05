@@ -1,1 +1,1 @@
-# Kurs_PWN_bis
+# Kurs_PWN ćwiczenia

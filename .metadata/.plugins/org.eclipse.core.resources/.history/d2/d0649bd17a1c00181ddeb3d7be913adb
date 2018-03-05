@@ -1,0 +1,5 @@
+package secondVariable;
+
+public class J6_VariableSimplest {
+	Character name = new Character(Micha);
+}
